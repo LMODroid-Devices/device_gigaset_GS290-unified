@@ -24,7 +24,7 @@ TARGET_OTA_ASSERT_DEVICE := GS290,yggdrasil,k63v2_64_bsp
 TARGET_SCREEN_DENSITY := 480
 
 # Kernel
-TARGET_KERNEL_SOURCE := kernel/gigaset/mt6763
+TARGET_KERNEL_SOURCE := kernel/gigaset/gs290
 TARGET_KERNEL_CONFIG := gs290_defconfig
 
 # Soong namespaces
